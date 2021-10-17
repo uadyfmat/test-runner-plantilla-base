@@ -15,4 +15,6 @@ jobs:
         with:
           node-version: "14"
       - run: npm install -g uadyfmat/test-runner
+      - run: curl -O https://raw.githubusercontent.com/uadyfmat/test-runner-autoevaluacion-github/main/resources/test-exercises
       - run: bash test-exercises
+      - run: rm test-exercises
