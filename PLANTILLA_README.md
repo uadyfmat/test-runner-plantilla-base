@@ -10,7 +10,7 @@ Escribe un programa que lea _n_ cadenas de caracteres e imprima "yes" cuando la 
 
 _[Dejar este texto en todos los ejercicios]:_
 
-El archivo del programa debe llamarse `Solution`, p. ej.: `Solution.java`. Los datos se reciben por entrada estándar, y el programa debe imprimir el resultado a salida estándar.
+El archivo del programa debe llamarse `Solution`, p. ej.: `Solution.java`. Los datos se reciben por entrada estándar (entrada del teclado), y el programa debe imprimir el resultado a salida estándar (en la terminal).
 
 ## Entrada
 
